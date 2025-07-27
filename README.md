@@ -1,3 +1,6 @@
+CAPSTONE PROJECT <br>
+<br>
+<br>
 Objective:
 Allow doctors to write prescriptions on paper as usual. Then, automatically convert scanned handwritten prescriptions into structured, digital text using AI — correcting handwriting mistakes with medical vocabulary.<br>
 <br>
@@ -36,3 +39,8 @@ Streamlit / Flask – for a simple user interface <br>
 <hr style = "height:0.5px;">
 USE CASES:<br>
 🏥Digitize handwritten prescriptions in hospitals and clinics<br>
+💊 Assist pharmacies in accurate medicine dispensing<br>
+📁 Integrate with EHRs for better patient record management<br>
+🌍 Support rural healthcare with offline-friendly digitization<br>
+📊 Enable medical data analytics and drug usage tracking<br>
+🧾 Simplify insurance claims with clean prescription data<br>
