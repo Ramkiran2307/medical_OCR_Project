@@ -1,0 +1,3202 @@
+[
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00000.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00001.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00002.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00004.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00005.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00007.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00008.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00009.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00010.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00012.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00013.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00014.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00015.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00016.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00017.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00018.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00019.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00020.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00021.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00022.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00023.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00024.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00026.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00028.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00029.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00031.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00033.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00034.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00035.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00036.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00037.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00038.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00039.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00040.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00041.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00042.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00043.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00045.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00047.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00049.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00050.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00051.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00052.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00053.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00054.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00055.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00056.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00058.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00059.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00060.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00061.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00062.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00063.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00064.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00066.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00068.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00069.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00070.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00072.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00074.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00075.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00076.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00077.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00078.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00079.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00082.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00083.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00084.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00085.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00086.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00087.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00088.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00090.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00091.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00092.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00096.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00097.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00098.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00100.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00101.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00102.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00105.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00106.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00107.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00108.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00109.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00110.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00111.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00113.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00115.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00116.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00118.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00119.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00120.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00121.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00122.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00123.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00124.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00125.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00126.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00128.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00129.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00130.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00131.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00132.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00133.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00134.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00135.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00136.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00137.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00138.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00139.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00140.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00143.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00144.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00145.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00147.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00148.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00149.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00150.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00151.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00152.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00153.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00154.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00155.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00157.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00158.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00160.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00162.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00164.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00165.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00168.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00169.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00170.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00171.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00172.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00173.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00174.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00176.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00177.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00178.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00179.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00180.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00181.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00182.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00183.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00184.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00185.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00186.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00187.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00188.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00189.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00190.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00191.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00192.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00193.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00194.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00195.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00197.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00198.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00199.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00200.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00201.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00202.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00204.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00205.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00206.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00207.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00208.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00209.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00210.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00211.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00212.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00213.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00215.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00218.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00219.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00221.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00222.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00226.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00227.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00229.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00230.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00231.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00232.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00235.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00236.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00237.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00239.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00240.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00241.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00242.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00243.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00244.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00245.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00246.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00247.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00248.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00249.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00251.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00253.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00254.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00255.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00256.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00258.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00259.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00260.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00261.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00262.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00263.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00264.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00265.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00266.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00267.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00268.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00272.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00275.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00277.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00278.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00279.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00280.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00282.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00283.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00285.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00286.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00287.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00288.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00289.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00290.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00291.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00292.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00293.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00294.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00295.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00297.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00298.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00299.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00301.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00302.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00303.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00304.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00305.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00306.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00307.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00308.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00309.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00310.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00311.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00312.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00313.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00314.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00315.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00316.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00317.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00318.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00319.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00320.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00321.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00324.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00325.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00326.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00327.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00328.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00329.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00330.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00331.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00333.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00334.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00335.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00336.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00337.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00338.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00339.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00340.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00341.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00342.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00343.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00345.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00346.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00347.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00349.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00350.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00351.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00353.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00354.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00355.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00356.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00357.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00358.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00359.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00360.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00361.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00362.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00364.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00365.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00366.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00368.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00369.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00371.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00372.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00374.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00375.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00376.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00377.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00378.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00380.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00381.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00382.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00383.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00384.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00385.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00386.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00391.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00392.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00393.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00395.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00396.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00397.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00398.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00399.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00400.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00401.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00402.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00403.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00404.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00406.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00407.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00409.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00411.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00412.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00413.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00414.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00415.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00416.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00417.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00418.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00419.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00420.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00421.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00422.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00423.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00424.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00425.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00426.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00427.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00428.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00430.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00431.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00433.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00434.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00435.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00436.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00437.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00439.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00440.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00441.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00442.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00443.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00444.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00446.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00447.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00448.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00449.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00450.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00451.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00452.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00453.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00454.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00455.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00456.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00457.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00458.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00460.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00461.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00462.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00463.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00465.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00466.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00467.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00468.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00471.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00472.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00474.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00475.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00476.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00477.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00478.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00480.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00481.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00482.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00483.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00484.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00485.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00486.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00487.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00488.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00489.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00490.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00491.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00492.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00493.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00494.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00495.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00496.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00497.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00498.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00499.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00500.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00501.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00502.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00503.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00504.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00506.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00507.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00508.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00509.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00510.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00512.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00513.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00514.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00515.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00516.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00518.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00519.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00520.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00522.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00523.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00524.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00525.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00526.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00527.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00528.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00529.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00530.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00531.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00532.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00533.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00534.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00535.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00536.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00537.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00538.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00539.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00540.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00542.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00543.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00544.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00545.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00547.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00548.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00550.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00552.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00553.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00554.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00555.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00556.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00557.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00559.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00560.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00561.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00562.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00563.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00564.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00567.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00568.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00569.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00571.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00572.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00573.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00575.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00576.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00577.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00578.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00579.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00581.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00582.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00583.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00584.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00585.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00586.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00587.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00588.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00589.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00590.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00592.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00593.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00594.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00595.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00596.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00599.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00600.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00601.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00602.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00605.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00606.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00607.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00608.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00609.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00611.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00612.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00613.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00614.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00615.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00617.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00619.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00620.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00621.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00622.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00624.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00625.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00626.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00627.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00628.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00629.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00630.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00631.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00632.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00634.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00635.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00636.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00637.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00638.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00639.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00640.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00641.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00644.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00645.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00646.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00647.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00648.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00649.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00651.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00652.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00653.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00657.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00659.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00660.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00661.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00662.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00664.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00666.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00667.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00668.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00669.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00670.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00672.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00673.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00674.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00675.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00676.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00678.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00679.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00680.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00681.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00682.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00683.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00684.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00685.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00687.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00688.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00689.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00690.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00691.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00693.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00694.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00695.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00697.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00700.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00702.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00703.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00705.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00706.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00707.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00708.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00709.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00710.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00711.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00712.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00713.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00715.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00716.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00717.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00719.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00720.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00722.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00723.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00724.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00725.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00726.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00727.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00728.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00729.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00730.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00731.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00732.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00734.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00737.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00740.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00741.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00742.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00743.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00744.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00745.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00748.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00749.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00750.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00751.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00752.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00753.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00755.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00756.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00757.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00760.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00761.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00763.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00765.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00766.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00767.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00769.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00770.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00771.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00772.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00774.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00775.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00776.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00778.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00779.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00780.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00782.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00783.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00784.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00785.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00788.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00789.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00790.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00792.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00793.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00795.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00796.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00797.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00798.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00799.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00800.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00801.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00802.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00803.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00804.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00805.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00806.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00807.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00808.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00809.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00810.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00812.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00813.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00814.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00815.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00816.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00817.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00818.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00819.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00820.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00821.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00822.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00823.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00827.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00829.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00831.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00832.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00833.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00834.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00835.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00836.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00837.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00838.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00839.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00840.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00842.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00843.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00844.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00845.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00846.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00847.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00848.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00850.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00851.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00852.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00853.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00855.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00856.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00857.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00858.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00859.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00860.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00861.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00862.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00864.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00865.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00866.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00868.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00869.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00870.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00871.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00872.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00873.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00874.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00876.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00877.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00878.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00879.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00880.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00883.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00884.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00885.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00886.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00888.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00889.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00891.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00892.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00893.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00894.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00895.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00896.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00897.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00898.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00900.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00901.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00902.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00903.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00904.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00905.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00909.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00910.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00911.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00912.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00914.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00915.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00916.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00917.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00918.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00919.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00920.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00921.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00922.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00923.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00924.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00926.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00927.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00928.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00929.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00932.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00933.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00934.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00935.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00937.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00938.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00939.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00940.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00941.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00942.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00943.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00944.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00945.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00946.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00948.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00949.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00950.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00951.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00952.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00953.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00957.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00959.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00960.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00961.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00962.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00965.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00966.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00967.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00968.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00969.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00971.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00972.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00973.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00975.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00976.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00977.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00979.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00980.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00981.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00984.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00985.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00987.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00988.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00989.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00991.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00993.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00995.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00996.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00997.png",
+        "text": "dummy text"
+    },
+    {
+        "image": "medical-prescription-dataset/train/images/prescription_00999.png",
+        "text": "dummy text"
+    }
+]
